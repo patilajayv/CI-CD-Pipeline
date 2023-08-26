@@ -1,5 +1,5 @@
 #!/bin/bash
-v1="https://github.com/patilajayv/CICDpractise"
+v1="https://github.com/patilajayv/CI-CD-Pipeline.git"
 v2="/var/www/html"
 fold="CICDpractise"
 # if [ -d "$fold" -a ! -h "$fold" ]
